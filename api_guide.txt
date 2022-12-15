@@ -1,0 +1,24 @@
+api for connetion client and server
+
+applicaton program interface
+rest - representational state transfer
+using http
+
+rest methods:
+get
+post 
+put 
+delete 
+patch
+
+
+---
+npm init
+npm i express 
+npm i -D nodemon
+
+v-else-if="contacts.length"
+v-for="contact in contacts"
+
+app.js  	is server
+frontend.js 	is for frontend
